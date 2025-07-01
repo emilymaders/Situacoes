@@ -12,3 +12,6 @@ public class ExemploRelatorio {
         System.out.println(relatorio.gerar());
     }
 }
+
+/* O COMMIT NAO VAI AAAAAAAAAAAAA */
+
