@@ -3,7 +3,7 @@ package situacoes.Composite;
 public class MainComposite {
     public static void main(String[] args) {
  
-        EmpresaComponente dev1 = new Funcionario("Emily", "Desenvolvedora Júnior");
+        EmpresaComponente dev1 = new Funcionario("Juliana", "Desenvolvedora Júnior");
         EmpresaComponente dev2 = new Funcionario("Bruno", "Desenvolvedor Pleno");
         EmpresaComponente suporte = new Funcionario("Sid", "Suporte Técnico");
 

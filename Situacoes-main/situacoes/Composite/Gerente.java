@@ -9,6 +9,7 @@ public class Gerente implements EmpresaComponente {
 
     public Gerente(String nome, String cargo) {
         this.nome = nome;
+
         this.cargo = cargo;
     }
 
